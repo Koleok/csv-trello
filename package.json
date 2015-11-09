@@ -1,0 +1,29 @@
+{
+  "name": "csv-trello",
+  "version": "1.0.0",
+  "description": "used to import CSV files with rows --> cards and control users and labels by column value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koleok/csv-trello.git"
+  },
+  "keywords": [
+    "csv",
+    "trello",
+    "node",
+    "javascript",
+    "api"
+  ],
+  "author": "Kyle Chamberlain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Koleok/csv-trello/issues"
+  },
+  "homepage": "https://github.com/Koleok/csv-trello#readme",
+  "dependencies": {
+    "node-trello": "^1.1.2"
+  }
+}
