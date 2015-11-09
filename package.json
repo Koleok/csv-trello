@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/Koleok/csv-trello#readme",
   "dependencies": {
+    "babel": "^6.0.15",
+    "config": "^1.16.0",
     "node-trello": "^1.1.2"
   }
 }
